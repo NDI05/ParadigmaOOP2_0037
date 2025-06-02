@@ -9,6 +9,11 @@ class AbstraksiClass{
             x=b;
         }
         void display(){
-            
+            cout << "X = " << x << endl;
+            cout << "Y = " << y << endl;
         }
 };
+
+int main(){
+    AbstraksiClass ab;
+}
