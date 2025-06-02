@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-class baseClass{
+class baseClass final{
     public:
         virtual void perkenalan(){
             cout << "Halo Saya Function dari base class";
