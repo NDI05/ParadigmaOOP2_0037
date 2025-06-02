@@ -1,7 +1,8 @@
 #include <iostream>
 using namespace std;
 
-class orng{
-    private:
+class orang{
+    public:
         int umur;
+
 };
