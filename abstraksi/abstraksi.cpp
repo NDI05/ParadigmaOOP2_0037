@@ -16,4 +16,7 @@ class AbstraksiClass{
 
 int main(){
     AbstraksiClass ab;
+    ab.setY("Yogyakarta", "kampus");
+    ab.display();
+    return 0;
 }
