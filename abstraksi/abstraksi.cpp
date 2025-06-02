@@ -8,4 +8,7 @@ class AbstraksiClass{
             y=a;
             x=b;
         }
+        void display(){
+            
+        }
 };
